@@ -45,7 +45,7 @@ Set the connection string
 **Resources:**
 
 ·        
-**Assets: **Directory containing assets used in project
+**Assets:** Directory containing assets used in project
 
 ·        
 **Fonts:** Directory containing fonts used in project
