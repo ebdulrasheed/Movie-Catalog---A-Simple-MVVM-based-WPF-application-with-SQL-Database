@@ -1,4 +1,5 @@
-# Movie-Catalog---A-Simple-MVVM-based-WPF-application-with-SQL-Database
+# Movie Catalog - A Simple MVVM based WPF application with SQL Database
+
 **Movie Catalog**
 
 Movie Catalog is a simple demonstration of database based application that
@@ -28,16 +29,16 @@ populate database (MS SQL SERVER is required)
 2.      
 Set the connection string
 
-  i.        
+&ensp;&ensp;  i.        
   Open MovieCatalog.sln (Visual Studio is required)
 
-  ii.      
+&ensp;&ensp;  ii.      
   Go to Properties in Solution Explorer
 
-  iii.     
+&ensp;&ensp;  iii.     
   Go to Settings.settings
 
-  iv.    
+&ensp;&ensp;  iv.    
   Insert Name as 'connString', Type as (Connection String), Scope as Application and Value as Connection String of Database.
 
 **Project Structure**
