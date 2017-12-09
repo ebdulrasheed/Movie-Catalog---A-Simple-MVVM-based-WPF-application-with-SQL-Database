@@ -10,11 +10,9 @@ procedures.
 
 You need the following tools in order to run/edit the solution.
 
-·        
-Microsoft Visual Studio (Latest recommended)
+- Microsoft Visual Studio (Latest recommended)
 
-·        
-Microsoft SQL Server (Latest recommended)
+- Microsoft SQL Server (Latest recommended)
 
 ## **Getting Started**
 
