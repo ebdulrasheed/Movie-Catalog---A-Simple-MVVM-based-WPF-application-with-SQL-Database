@@ -1,0 +1,47 @@
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\bin\Release\MovieCatalog.exe.config
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\bin\Release\MovieCatalog.exe
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\bin\Release\MovieCatalog.pdb
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\AddPage.g.cs
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\EditPage.g.cs
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\HomePage.g.cs
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MainWindow.g.cs
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\Search.g.cs
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\App.g.cs
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog_MarkupCompile.cache
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog_MarkupCompile.lref
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\App.baml
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\AddPage.baml
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\EditPage.baml
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\HomePage.baml
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MainWindow.baml
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\Search.baml
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.g.resources
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.Properties.Resources.resources
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.csproj.GenerateResource.Cache
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.csproj.CoreCompileInputs.cache
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.exe
+C:\Users\ZiaurRehman\source\repos\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.pdb
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\bin\Release\MovieCatalog.exe.config
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\bin\Release\MovieCatalog.exe
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\bin\Release\MovieCatalog.pdb
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.csprojResolveAssemblyReference.cache
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\AddPage.g.cs
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\EditPage.g.cs
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\HomePage.g.cs
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MainWindow.g.cs
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\Search.g.cs
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\App.g.cs
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog_MarkupCompile.cache
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog_MarkupCompile.lref
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\App.baml
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\AddPage.baml
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\EditPage.baml
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\HomePage.baml
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MainWindow.baml
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\Search.baml
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.g.resources
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.Properties.Resources.resources
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.csproj.GenerateResource.Cache
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.csproj.CoreCompileInputs.cache
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.exe
+E:\Rasheed Files\MovieProgram\Movie Catalog Project\MovieCatalog\MovieCatalog\obj\Release\MovieCatalog.pdb

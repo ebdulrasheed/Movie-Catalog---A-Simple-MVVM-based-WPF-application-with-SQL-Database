@@ -1,0 +1,113 @@
+﻿<Page x:Class="MovieCatalog.Search"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MovieCatalog"
+      mc:Ignorable="d" 
+      d:DesignHeight="405" d:DesignWidth="655"
+      Title="Search">
+
+    <Grid>
+        <Label 
+            Content="Search Movie Catalog" 
+            FontWeight="DemiBold"
+            FontSize="20"
+            HorizontalAlignment="Center"
+            Margin="40"
+            VerticalAlignment="Top"
+            Foreground="WhiteSmoke"
+            Style="{DynamicResource CaptureIt}" Width="255"/>
+        <TextBox 
+            x:Name="searchBox"
+            ForceCursor="True"
+            
+            HorizontalAlignment="Center"
+            Height="20"
+            Margin="105"
+            TextAlignment="Justify"
+            FontSize="12"
+            TextWrapping="Wrap"
+            Text="Enter Movie Name"
+            FontStyle="Italic"
+            FontWeight="Light"
+            VerticalAlignment="Top"
+            Width="300"
+            MaxLines="1"
+            MinLines="1"
+            GotFocus="searchBox_GotFocus"/>
+        <Button
+            Content="Search"
+            HorizontalAlignment="Center"
+            Margin="130"
+            VerticalAlignment="Top" 
+            Width="100"
+            Height="20"
+            Foreground="WhiteSmoke"
+            Background="#13242C"
+            Style="{DynamicResource CaptureIt}"
+            Click="Search_Click"/>
+        <DataGrid
+            x:Name="gridTable"
+            AlternatingRowBackground="#576E66"
+            HorizontalScrollBarVisibility="Disabled"
+            VerticalScrollBarVisibility="Auto"
+            MinColumnWidth="100"
+            IsReadOnly="True"
+            ItemsSource="{Binding}"
+            HorizontalAlignment="Center"
+            Height="135"
+            Margin="0,200,0,0"
+            VerticalAlignment="Top"
+            Width="450"
+            FrozenColumnCount="4"
+            SelectionMode="Single"
+            SelectionChanged="gridTable_SelectionChanged"/>
+        <Button
+            Content="Edit"
+            x:Name="EditBtn"
+            HorizontalAlignment="Center"
+            Margin="320,340,180,0"
+            VerticalAlignment="Top"
+            Width="100"
+            Height="20"
+            Foreground="WhiteSmoke"
+            Background="#13242C"
+            Style="{DynamicResource CaptureIt}"
+            Click="EditBtn_Click"/>
+        <Button 
+            x:Name="DelBtn"
+            Content="Delete"
+            HorizontalAlignment="Left"
+            Margin="450,340,0,0"
+            VerticalAlignment="Top"
+            Width="100"
+            Height="20"
+            Foreground="WhiteSmoke"
+            Background="#13242C"
+            Style="{DynamicResource CaptureIt}"
+            Click="DelBtn_Click"
+            />
+        <Button
+            x:Name="backBtn"
+            Style="{DynamicResource CircleShapeButtonStyle}"
+            Background="White"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Width="25"
+            Height="25"
+            Margin="40,40,0,0"
+            Click="backBtn_Click">
+            <Image Source="/Assets/back.png"/>
+        </Button>
+        <Label 
+            x:Name="WarningSearchLabel"
+            Content="* Enter Movie Name"
+            Foreground="Red"
+            FontSize="10"
+            Visibility="Hidden"
+            HorizontalAlignment="Left"
+            Margin="180,80,0,0"
+            VerticalAlignment="Top"/>
+    </Grid>
+</Page>

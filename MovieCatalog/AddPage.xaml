@@ -1,0 +1,122 @@
+﻿<Page x:Class="MovieCatalog.AddPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MovieCatalog"
+      mc:Ignorable="d" 
+      d:DesignHeight="405" d:DesignWidth="655"
+      Title="Add">
+
+    <Grid>
+        <Label 
+            Content="Add Movie Record" 
+            FontWeight="DemiBold"
+            FontSize="16"
+            HorizontalAlignment="Center"
+            Margin="40"
+            Foreground="WhiteSmoke"
+            Style="{DynamicResource CaptureIt}"
+            VerticalAlignment="Top"/>
+        <Label
+            Content="Title" 
+            HorizontalAlignment="Left" 
+            Margin="150,100,0,0"
+            VerticalAlignment="Top" 
+            Height="25" 
+            Width="55"
+            Foreground="WhiteSmoke"
+            Style="{DynamicResource CaptureIt}"/>
+        <TextBox
+            x:Name="Title_TBox"
+            HorizontalAlignment="Left"
+            Height="20"
+            Margin="350,100,0,0"
+            TextWrapping="Wrap"
+            Text="Enter Title"
+            FontStyle="Italic"
+            FontWeight="Light"
+            VerticalAlignment="Top"
+            Width="180"
+            GotFocus="Title_TBox_GotFocus"/>
+        <Label
+            Content="Genre"
+            HorizontalAlignment="Left"
+            Margin="150,150,0,0" 
+            VerticalAlignment="Top"
+            Foreground="WhiteSmoke"
+            Style="{DynamicResource CaptureIt}"/>
+        <TextBox 
+            x:Name="Genre_TBox"
+            HorizontalAlignment="Left"
+            Height="20"
+            Margin="350,150,0,0" 
+            Text="Enter Genre"
+            FontStyle="Italic"
+            FontWeight="Light"
+            VerticalAlignment="Top"
+            Width="180"
+            GotFocus="Genre_TBox_GotFocus"/>
+        <Label 
+            Content="Release Year"
+            HorizontalAlignment="Left"
+            Margin="150,200,0,0" 
+            VerticalAlignment="Top"
+            Foreground="WhiteSmoke"
+            Style="{DynamicResource CaptureIt}"/>
+        <TextBox
+            x:Name="ReleaseYear_TBox"
+            HorizontalAlignment="Left"
+            Height="20"
+            Margin="350,200,0,0"
+            TextWrapping="Wrap"
+            Text="Enter Release Year"
+            FontStyle="Italic"
+            FontWeight="Light"
+            VerticalAlignment="Top"
+            Width="120"
+            GotFocus="ReleaseYear_TBox_GotFocus"/>
+        <Label
+            Content="Duration" 
+            HorizontalAlignment="Left"
+            Margin="150,250,0,0" 
+            VerticalAlignment="Top"
+            Foreground="WhiteSmoke"
+            Style="{DynamicResource CaptureIt}"/>
+        <TextBox
+            x:Name="duration_TBox"
+            HorizontalAlignment="Left"
+            Height="20"
+            Margin="350,250,0,0"
+            TextWrapping="Wrap"
+            Text="Enter Duration"
+            FontStyle="Italic"
+            FontWeight="Light"
+            VerticalAlignment="Top"
+            Width="120"
+            GotFocus="TextBox_GotFocus"/>
+        <Button 
+            x:Name="AddBtn"
+            Content="Add"
+            HorizontalAlignment="Center"
+            Margin="0,300,0,0"
+            VerticalAlignment="Top"
+            Width="100"
+            Height="20"
+            Foreground="WhiteSmoke"
+            Background="#13242C"
+            Style="{DynamicResource CaptureIt}"
+            Click="AddBtn_Click"/>
+        <Button
+            x:Name="backBtn"
+            Style="{DynamicResource CircleShapeButtonStyle}"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Width="25"
+            Height="25"
+            Margin="40,40,0,0"
+            Click="backBtn_Click">
+            <Image Source="Assets/back.png"/>
+        </Button>
+    </Grid>
+</Page>
